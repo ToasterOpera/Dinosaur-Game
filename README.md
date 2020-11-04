@@ -2,7 +2,7 @@
 
 A simple clone of Google Chrome's Dinosaur Game. Soon to be improved upon with such things as changing landscapes, new hazards, time travel, and hardcore boss battles. Stay tuned!
 ---
-To run, simply download and run the exe file. Use the up arrow key to jump and the down arrow key to crouch. Upon starting or when you die, press the up or down arow keys to start running.
+To run, simply download all files and run the exe file. To play, use the up arrow key to jump and the down arrow key to crouch. Upon starting or when you die, press the up or down arow keys to start running.
 ---
 
 
